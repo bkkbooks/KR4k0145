@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR4k0145/v1
+canonical_location: https://kanripo.org/bkk/KR4k0145/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0145_000.yaml, hash: 'sha256:dc3fc99d00c943bc4daf4cf3d5fc1983fc7a46a70b3ffb3f669ff2f4506d2412'}
+  - {seq: 1, filename: KR4k0145_001.yaml, hash: 'sha256:44f32b0a560a1e7f27883b0ac4efe548f218287e0e94a549f0106006afe84a69'}
+  - {seq: 2, filename: KR4k0145_002.yaml, hash: 'sha256:8e5cb244e7849034fcec41cb1be3ff5a0144a5042c25e0801622a7573cc65e59'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0145_000.markers.yaml, hash: 'sha256:1a06203fe01193e24a7e44626d5d323bb2a2d279c5298dd915014158b0822a9e'}
+  - {seq: 1, role: markers, filename: assets/KR4k0145_001.markers.yaml, hash: 'sha256:7628e256af7ae9249fa08397df11aa56236f187126bda0914f8057ecd8a66fc4'}
+  - {seq: 2, role: markers, filename: assets/KR4k0145_002.markers.yaml, hash: 'sha256:3e15b2edb4ffa3bc2b2efff8855f806f4eb3ca04f44dafd3799f0ea654a5b940'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0145_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 15173
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4k0145_kf_001-h.1
+    span:
+    - body
+    - 0
+    - 36133
+  label: 第三卷詩
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4k0145_kf_002-h.1
+    span:
+    - body
+    - 0
+    - 4955
+  label: 第十二回三合巹各湊奇緣
+  type: section
+  level: 1
+metadata:
+  title: 花案奇聞
+  identifiers:
+    krp: KR4k0145
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0145.xml
+  edition:
+    short: bkk
+hash: sha256:c757a64a714217db64cf8ace24d9f0276566d86a2513209558ced66c2356057d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
