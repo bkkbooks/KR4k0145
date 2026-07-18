@@ -123,6 +123,7 @@ markers:
   - {type: punctuation, offset: 255, content: 《, id: ''}
   - {type: punctuation, offset: 258, content: 》, id: ''}
   - {type: punctuation, offset: 258, content: (, id: ''}
+  - {type: voice, offset: 258, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 259, content: 《, id: ''}
   - {type: punctuation, offset: 263, content: 》, id: ''}
   - {type: punctuation, offset: 265, content: —, id: ''}
@@ -6031,4 +6032,4 @@ markers:
   - {type: punctuation, offset: 15173, content: ”, id: ''}
   - {type: paragraph-break, offset: 15173, content: '', id: KR4k0145_kf_000-p.2_end, role: close}
   back: []
-hash: sha256:1a06203fe01193e24a7e44626d5d323bb2a2d279c5298dd915014158b0822a9e
+hash: sha256:386b3c825a50551fb89ae7345635beaf87259a44c070fb17ef8d9f2f21d39f9d
